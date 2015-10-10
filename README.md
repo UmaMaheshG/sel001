@@ -6,6 +6,7 @@ Steps :
 1. Install git from https://git-scm.com/download/win
 2. Go to cmd > type "git" 
 3. git clone https://github.com/UmaMaheshG/sel001
+4. git checkout -b yourname
 4. git config user.email emailid
 5. git add .
 6. git commit -m "Added new assignment answers"
