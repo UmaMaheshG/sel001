@@ -1,6 +1,7 @@
 /**
  * Created by PRANAV on 10/13/2015.
  */
+//Example for sttaic non staticmethods
 public class Static1 {
 
     public int add(int a,int b)

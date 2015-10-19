@@ -1,15 +1,20 @@
 /**
  * Created by PRANAV on 10/13/2015.
  */
+
+//example for static nonstatic methods
+
 public class StaticnonStatic {
 
     public void nonstaticmethod()
     {
+
         System.out.println("message from nonstatic method" );
     }
 
     public static void staticmethod()
     {
+
         System.out.println("message from static method ");
     }
 
