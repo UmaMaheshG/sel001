@@ -2,10 +2,18 @@
  * Created by user on 10/7/15.
  */
 public class stringlen {
+    String str1 = "Selenium";
+    String str2 = "Training";
+
+    public void len(){
+        String str3 = str1+str2;
+        System.out.println("Length of the string:"+str3.length());
+    }
+
     public static void main (String args[])
     {
-        String str1= "Selenium training";
-        int len = str1.length();
-        System.out.println("Length of the string:"+len);
+        stringlen a = new stringlen();
+        a.len();
+
     }
 }
